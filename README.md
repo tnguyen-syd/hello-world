@@ -1,2 +1,4 @@
 # hello-world
-my intro to GitHub
+My intro to GitHub
+
+This is an exercise to test features of GitHub.
